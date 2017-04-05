@@ -13,6 +13,7 @@
 		1DE5442D1E94BBA3007017A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE544271E94BBA3007017A2 /* ViewController.swift */; };
 		1DE5442E1E94BBA3007017A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE5442A1E94BBA3007017A2 /* LaunchScreen.storyboard */; };
 		1DE5442F1E94BBA3007017A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE5442B1E94BBA3007017A2 /* Main.storyboard */; };
+		1DE544311E94BEFE007017A2 /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE544301E94BEFE007017A2 /* ItemTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DE544271E94BBA3007017A2 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1DE5442A1E94BBA3007017A2 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DE5442B1E94BBA3007017A2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		1DE544301E94BEFE007017A2 /* ItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				1DE544271E94BBA3007017A2 /* ViewController.swift */,
+				1DE544301E94BEFE007017A2 /* ItemTableViewCell.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DE544311E94BEFE007017A2 /* ItemTableViewCell.swift in Sources */,
 				1DE5442D1E94BBA3007017A2 /* ViewController.swift in Sources */,
 				1DE5442C1E94BBA3007017A2 /* AppDelegate.swift in Sources */,
 				1DE544171E94BB44007017A2 /* BasicReference.xcdatamodeld in Sources */,
